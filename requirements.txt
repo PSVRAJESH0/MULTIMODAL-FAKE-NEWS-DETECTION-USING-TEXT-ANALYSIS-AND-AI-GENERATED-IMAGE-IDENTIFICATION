@@ -1,0 +1,16 @@
+# UI
+streamlit
+
+# TensorFlow (includes keras internally)
+tensorflow==2.19.0
+
+# PyTorch (CPU stable)
+torch==2.10.0
+torchvision==0.25.0
+
+# NLP
+transformers==5.0.0
+
+# Core
+numpy==2.0.2
+pillow
